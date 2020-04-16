@@ -1,0 +1,29 @@
+img {
+    width: 130px;
+    height: 130px;
+    margin: 0px;
+    padding: 0px;
+    border: solid 2px lightblue;
+}
+
+button {
+    width: 135px;
+    background-color: #D2691E;
+    padding: 0px;
+    margin: 7px;
+    border: none;
+}
+
+.quadro {
+    width: 700px;
+    padding: 10px;
+    margin: 15px;
+    background-color: #D2691E;
+    border: solid 2px darkgreen;
+}
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+.usar {
+    display: flex;
+    align-items: center;
+    
+}
+
+.usar2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    background-color: white;
+    width: 300px;
+    height: 40px;
+    padding: 8px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    border: solid 3px darkgreen;
+}
+
+
+
+
+
